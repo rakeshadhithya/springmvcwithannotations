@@ -1,0 +1,15 @@
+0:0:0:0:0:0:0:1 - - [07/Mar/2025:09:22:22 +0530] "GET /springmvcwithannotations/home HTTP/1.1" 200 559 http-bio-8080-exec-1 1367
+0:0:0:0:0:0:0:1 - - [07/Mar/2025:09:22:31 +0530] "GET /springmvcwithannotations/findAll HTTP/1.1" 200 454 http-bio-8080-exec-4 5086
+0:0:0:0:0:0:0:1 - - [07/Mar/2025:09:22:40 +0530] "GET /springmvcwithannotations/static/find-by-id-form.html HTTP/1.1" 304 - http-bio-8080-exec-7 20
+0:0:0:0:0:0:0:1 - - [07/Mar/2025:09:22:43 +0530] "GET /springmvcwithannotations/findById?id=2 HTTP/1.1" 200 329 http-bio-8080-exec-9 180
+0:0:0:0:0:0:0:1 - - [07/Mar/2025:09:22:47 +0530] "GET /springmvcwithannotations/static/save-employee-form.html HTTP/1.1" 304 - http-bio-8080-exec-1 14
+0:0:0:0:0:0:0:1 - - [07/Mar/2025:09:23:04 +0530] "GET /springmvcwithannotations/save?name=chotubhai&department=klsdfj&salary=234242 HTTP/1.1" 200 152 http-bio-8080-exec-4 211
+0:0:0:0:0:0:0:1 - - [07/Mar/2025:09:23:06 +0530] "GET /springmvcwithannotations/home HTTP/1.1" 200 559 http-bio-8080-exec-4 10
+0:0:0:0:0:0:0:1 - - [07/Mar/2025:09:23:07 +0530] "GET /springmvcwithannotations/findAll HTTP/1.1" 200 562 http-bio-8080-exec-4 48
+0:0:0:0:0:0:0:1 - - [07/Mar/2025:09:23:11 +0530] "GET /springmvcwithannotations/static/update-employee-form.html HTTP/1.1" 304 - http-bio-8080-exec-9 14
+0:0:0:0:0:0:0:1 - - [07/Mar/2025:09:23:25 +0530] "GET /springmvcwithannotations/update?id=3&name=chotu&department=electrical&salary=30000 HTTP/1.1" 200 154 http-bio-8080-exec-8 178
+0:0:0:0:0:0:0:1 - - [07/Mar/2025:09:23:27 +0530] "GET /springmvcwithannotations/home HTTP/1.1" 200 559 http-bio-8080-exec-8 9
+0:0:0:0:0:0:0:1 - - [07/Mar/2025:09:23:28 +0530] "GET /springmvcwithannotations/findAll HTTP/1.1" 200 562 http-bio-8080-exec-3 58
+0:0:0:0:0:0:0:1 - - [07/Mar/2025:09:23:32 +0530] "GET /springmvcwithannotations/static/delete-employee-form.html HTTP/1.1" 304 - http-bio-8080-exec-7 13
+0:0:0:0:0:0:0:1 - - [07/Mar/2025:09:23:36 +0530] "GET /springmvcwithannotations/delete?id=3 HTTP/1.1" 200 160 http-bio-8080-exec-7 140
+0:0:0:0:0:0:0:1 - - [07/Mar/2025:09:23:38 +0530] "GET /springmvcwithannotations/home HTTP/1.1" 200 559 http-bio-8080-exec-7 11
