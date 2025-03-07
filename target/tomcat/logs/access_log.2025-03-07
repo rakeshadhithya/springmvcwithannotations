@@ -13,3 +13,5 @@
 0:0:0:0:0:0:0:1 - - [07/Mar/2025:09:23:32 +0530] "GET /springmvcwithannotations/static/delete-employee-form.html HTTP/1.1" 304 - http-bio-8080-exec-7 13
 0:0:0:0:0:0:0:1 - - [07/Mar/2025:09:23:36 +0530] "GET /springmvcwithannotations/delete?id=3 HTTP/1.1" 200 160 http-bio-8080-exec-7 140
 0:0:0:0:0:0:0:1 - - [07/Mar/2025:09:23:38 +0530] "GET /springmvcwithannotations/home HTTP/1.1" 200 559 http-bio-8080-exec-7 11
+0:0:0:0:0:0:0:1 - - [07/Mar/2025:09:28:24 +0530] "GET /springmvcwithannotations/home HTTP/1.1" 200 559 http-bio-8080-exec-1 270
+0:0:0:0:0:0:0:1 - - [07/Mar/2025:09:28:31 +0530] "GET /springmvcwithannotations/findAll HTTP/1.1" 200 454 http-bio-8080-exec-3 5250

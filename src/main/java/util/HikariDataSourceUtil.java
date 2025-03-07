@@ -21,7 +21,7 @@ public class HikariDataSourceUtil {
 					//not a http connection, it is a jdbc connection to mysql server
 					//wrong: hikariConfig.setJdbcUrl("http://localhost:3306/studenttribedb");
 					//correct version:
-					hikariConfig.setJdbcUrl("jdbc:mysql://localhost:3306/studenttribedb");
+					hikariConfig.setJdbcUrl("jdbc:mysql://localhost:3306/rakeshdb");
 					hikariConfig.setUsername("root");
 					hikariConfig.setPassword("root");
 					hikariConfig.setMaximumPoolSize(5);
