@@ -30,5 +30,5 @@
 
 - in src/main/java/util/HikariDataSource.java, change database details as per your database
 - run 'mvn tomcat7:run' , this will start the web application on port 8080. (since we used embedded tomcat plugin)
-- open the browser and use the url http://localhost:8080/springmvcwithxmlfiles/home. this is the home page where you can access to all features of the application
+- open the browser and use the url http://localhost:8080/springmvcwithannotations/home. this is the home page where you can access to all features of the application
 - try all the operations listed on home page

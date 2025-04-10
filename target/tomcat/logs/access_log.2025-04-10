@@ -1,0 +1,8 @@
+0:0:0:0:0:0:0:1 - - [10/Apr/2025:08:51:31 +0530] "GET /springmvcwithxmlfiles/home HTTP/1.1" 404 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [10/Apr/2025:08:51:45 +0530] "GET /springmvcwithannotationsfiles/home HTTP/1.1" 404 - http-bio-8080-exec-4 0
+0:0:0:0:0:0:0:1 - - [10/Apr/2025:08:51:51 +0530] "GET /springmvcwithannotations/home HTTP/1.1" 200 559 http-bio-8080-exec-6 1580
+0:0:0:0:0:0:0:1 - - [10/Apr/2025:08:51:52 +0530] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-8 0
+0:0:0:0:0:0:0:1 - - [10/Apr/2025:08:52:01 +0530] "GET /springmvcwithannotations/findAll HTTP/1.1" 200 454 http-bio-8080-exec-9 7754
+0:0:0:0:0:0:0:1 - - [10/Apr/2025:08:52:06 +0530] "GET /springmvcwithannotations/static/find-by-id-form.html HTTP/1.1" 200 330 http-bio-8080-exec-1 13
+0:0:0:0:0:0:0:1 - - [10/Apr/2025:08:52:11 +0530] "GET /springmvcwithannotations/findById?id=1 HTTP/1.1" 200 329 http-bio-8080-exec-4 179
+0:0:0:0:0:0:0:1 - - [10/Apr/2025:08:52:15 +0530] "GET /springmvcwithannotations/static/update-employee-form.html HTTP/1.1" 200 723 http-bio-8080-exec-6 10
